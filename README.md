@@ -2,6 +2,8 @@
 
 <a href="https://www.npmjs.com/package/v-tooltip"><img src="https://img.shields.io/npm/v/v-tooltip.svg"/><img src="https://img.shields.io/npm/dm/nx-card.svg"/><img src="https://img.shields.io/badge/vue-2.x-brightgreen.svg" alt="vue2"></a>
 
+!['screenshot'](https://github.com/nazar-xda/nx-card/raw/master/card.png)
+
 Simple and beautiful card made for vue.js.
 
 ## Table of contents
