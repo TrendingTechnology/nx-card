@@ -6,6 +6,8 @@
 
 Simple and beautiful card made for vue.js.
 
+[Live Demo](http://nx-card.surge.sh)
+
 ## Table of contents
 
 - [Installation](#installation)
