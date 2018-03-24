@@ -8,10 +8,9 @@ a[data-v-65e13738]:hover {
 .card[data-v-65e13738] {
   -ms-flex: 1 1 1%;
   flex: 1 1 1%;
-  max-width: 400px;
   margin: 15px;
   z-index: 499;
-  font-family: Arial;
+  font-family: Roboto;
   position: relative;
   display: -ms-flexbox;
   display: flex;
@@ -20,15 +19,16 @@ a[data-v-65e13738]:hover {
   -ms-flex-pack: center;
   justify-content: center;
   overflow: hidden;
-  padding: 20px 40px 20px 120px;
+  padding: 40px 40px 40px 120px;
   cursor: pointer;
   background-color: #fff;
-  border-radius: 10px;
+  border-radius: 4px;
   box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
   transition-property: color, background-color, box-shadow, transform;
   transition-duration: 0.15s;
 }
 .card > h2[data-v-65e13738] {
+  margin: 0 0 5px !important;
   color: #8f6ed5;
   text-transform: uppercase;
   font-size: 17px;
@@ -49,10 +49,10 @@ a[data-v-65e13738]:hover {
   top: calc(50% - 65px);
 }
 .card > p[data-v-65e13738] {
-  margin: 10px;
+  margin: 5px 0 0;
   font-weight: 400;
-  font-size: 15px;
-  line-height: 20px;
+  font-size: 17px;
+  line-height: 26px;
   color: #6b7c93;
 }
 .card[data-v-65e13738]:hover {
